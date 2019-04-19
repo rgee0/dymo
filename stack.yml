@@ -4,5 +4,5 @@ provider:
 functions:
   dymo:
     lang: go
-    handler: ./function
+    handler: ./dymo
     image: rgee0/dymo:latest
