@@ -6,6 +6,6 @@ functions:
     lang: go
     handler: ./dymo
     image: rgee0/dymo:latest
-    label:
+    labels:
       com.openfaas.scale.zero: false
       
