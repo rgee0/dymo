@@ -11,7 +11,7 @@ $ curl https://rgee0.o6s.io/dymo -d 'rgee0.o6s.io'
 io.o6s.rgee0
 ```
 
-It will also accommodate http:// and https:// schemes:
+The function will also accommodate http:// and https:// schemes:
 
 ```sh
 $ curl https://rgee0.o6s.io/dymo -d 'https://rgee0.o6s.io'
